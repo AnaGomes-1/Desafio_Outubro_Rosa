@@ -106,13 +106,14 @@ footer img {
 
 footer .redes img {
     transition: transform 0.3s ease, filter 0.3s ease;
+    cursor: pointer;
   }
   
   footer .redes img:hover {
     transform: scale(1.2);
     filter: brightness(1.2);
   }
-  
+
   header nav ul li {
     transition: transform 0.3s ease, color 0.3s ease;
     cursor: pointer;
